@@ -14,6 +14,16 @@ Check out the live demo of Drum-Kit [here](Project link will be updated soon)
 
 I learnt how much we could implement and execute with simple vanilla JavaScript. This would help in the future to write leaner yet efficient code using large frameworks like React.js or Vue.js
 
+Specially learnt and revised concepts in:
+
+- Adding Event Listeners
+- CSS Styling and Animations
+  - Grid Layout
+  - Glow Effects
+  - Smooth Transitions
+- Dynamic CSS styling
+- Working with Audio Files in JavaScript
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
