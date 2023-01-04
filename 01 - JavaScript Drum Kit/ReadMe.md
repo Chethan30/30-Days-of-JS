@@ -8,7 +8,7 @@ Drum-Key is a simple drum beat simulator, that produces beats on key strokes. Fo
 
 This is a stand alone code built completely using HTML, CSS, and pure **vanilla JavaScript**.
 
-Check out the live demo of Drum-Kit [here](Project link will be updated soon)
+Check out the live demo of Drum-Kit [here](https://63b5e2e967cd3146b89ce347--visionary-marshmallow-a1c3a3.netlify.app/)
 
 ## Learning
 
