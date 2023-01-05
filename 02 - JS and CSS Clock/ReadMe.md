@@ -8,7 +8,7 @@ JavaScript Clock is as the name suggests a clock built with pure JS. It updates 
 
 This is a stand alone code built completely using HTML, CSS, and pure **vanilla JavaScript**.
 
-Check out the live demo of Drum-Kit [here](Link Here)
+Check out the live demo of the Clock [here](https://velvety-sundae-ba0bf3.netlify.app/)
 
 ## Learning
 
